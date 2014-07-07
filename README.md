@@ -1,6 +1,8 @@
+![Phone image](https://s3.amazonaws.com/img.mdp.im/2014--m-07-2014--m-07-IMG_20140706_2323572-rerrb-ci98y.png)
+
 ## GSM Tracker
 
-Use cheap unactivated burner phones to as a location tracker.
+Use cheap unactivated [burner phones](https://www.youtube.com/watch?v=QRo4-VjgT6A&feature=youtu.be) to as a location tracker.
 
 ### Why
 
