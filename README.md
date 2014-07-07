@@ -1,4 +1,4 @@
-![Phone image](https://s3.amazonaws.com/img.mdp.im/2014--m-07-2014--m-07-IMG_20140706_2323572-rerrb-ci98y.png)
+![Phone image](https://s3.amazonaws.com/img.mdp.im/2014--m-07-2014--m-07-IMG_20140706_2323573-fctkf-l0ja9.png)
 
 ## GSM Tracker
 
