@@ -28,5 +28,5 @@ The phone currently requires someone to dump the logs in order to analyze it. Th
 
 ### The phone
 
-For this expiremen I picked up a Huawei "Inspira SIM 5 Android Prepaid Phone" from Net10 for around $28 on Amazon (sadly it's no longer available). This phone is actually operating on the T-Mobile network through Net10's MVNO.
+For this expirement I picked up a Huawei "Inspira SIM 5 Android Prepaid Phone" from Net10 for around $28 on Amazon (sadly it's no longer available). This phone is actually operating on the T-Mobile network through Net10's MVNO.
 
