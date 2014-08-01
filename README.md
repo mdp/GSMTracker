@@ -17,7 +17,7 @@ have ID's which can then be looked up in a commercial or free
 database.
 
 GSM Tracker runs every hour and logs the current cell tower ID
-to a file. When it arrives at it's destination it, the log can
+to a file. When it arrives at it's destination the log can
 be examined and we can determine what route the phone took.
 
 You could use a GPS logger, but those tend to fail unless they have a clearer shot to the sky. Also without data and GPS, the phone is able to last more than a week logging the Cell ID's.
